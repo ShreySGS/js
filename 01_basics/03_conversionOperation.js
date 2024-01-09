@@ -19,3 +19,8 @@ console.log(valueInNumber);
 //  1 => true; 0 => false
 //  "" => false; " " => true (space counts)
 //  "goku" => true
+
+let  str1 = "goku"
+let str2 = "ssgss"
+let str3 = str1 + str2
+console.log( str3 );
