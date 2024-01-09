@@ -1,2 +1,2 @@
 # js
-javascript
+javascript notes from youtube channel "Chai aur Code"
