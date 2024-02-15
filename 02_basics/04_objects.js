@@ -50,4 +50,33 @@ const users = [
 // console.log(Object.values(tinderUser));// returns array with objvalues
 // console.log(Object.entries(tinderUser));// returns key value paired arrays
 
-console.log(tinderUser.hasOwnProperty('isLoggeIn'));// returns bool
+// console.log(tinderUser.hasOwnProperty('isLoggeIn'));// returns bool
+
+const course = {
+    coursename: "javascript",
+    price: "free",
+    courseInstructor: "hitesh"
+}
+
+const {courseInstructor: instructor} = course
+console.log(instructor);
+
+// react
+// const navbar = ({company}) => {//props.company
+
+// }
+// navbar(company = "hitesh")
+
+// json(aps) //xml(complicated)
+
+// {
+//  "name": "goku",
+//  "coursename": "js",
+//  "price": "free"
+// }
+ 
+// [
+//     {},
+//     {},
+//     {}
+// ]
