@@ -5,7 +5,7 @@ const coding = ['js', 'ruby', 'java', 'python', 'cpp']
 // })
 
 // coding.forEach( (val) => {
-//     // console.log(val);
+//    console.log(val);
 // })
 
 // function printMe( item ){
@@ -32,7 +32,7 @@ const myCoding = [
         short: "py"
     }
 ]
-myCoding.forEach(function (item) {
-    console.log(item.langName);
-    console.log(item.short);
-})
+// myCoding.forEach(function (item) {
+//     console.log(item.langName);
+//     console.log(item.short);
+// })
